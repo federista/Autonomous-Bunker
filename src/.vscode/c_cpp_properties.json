@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jetson/leo/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/jetson/leo/src/ugv_gazebo_sim/ranger/four_wheel_steering_controller/include/**",
+        "/home/jetson/leo/src/ugv_gazebo_sim/limo/limo_gazebo_sim/include/**",
+        "/home/jetson/leo/src/ugv_gazebo_sim/scout/scout_gazebo_sim/include/**",
+        "/home/jetson/leo/src/ugv_gazebo_sim/hunter/steer_bot_hardware_gazebo/include/**",
+        "/home/jetson/leo/src/ugv_gazebo_sim/hunter/steer_drive_controller/include/**",
+        "/home/jetson/leo/src/ugv_gazebo_sim/tracer/tracer_gazebo_sim/include/**",
+        "/home/jetson/leo/src/ugv_gazebo_sim/ranger/urdf_geometry_parser/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
